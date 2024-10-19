@@ -28,9 +28,7 @@ Execute the program using runserver command.
 
 
 <html lang="en">
-<head>
-<title>Slot Timetable</title>
-</head>
+
 <body>
 
 <br>
