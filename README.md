@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date:
+## Date: 19-10-2024
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -25,7 +25,7 @@ Execute the program using runserver command.
 
 ### PROGRAM
 
-
+```
 
 <html lang="en">
 
@@ -141,7 +141,7 @@ Execute the program using runserver command.
 </table>
 </body>
 </html>
-
+```
 ## OUTPUT
 ![Screenshot 2024-10-19 200450](https://github.com/user-attachments/assets/00a7be04-0524-4882-a8e2-16573a8ae95d)
 
